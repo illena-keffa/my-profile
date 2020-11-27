@@ -1,0 +1,69 @@
+body{
+	background-color: #ff00c8;
+	font-family: Light 300;
+	color: white;
+	font-size: 19px;
+	line-height: 1.0;
+    text-justify: center;
+	
+}
+
+h1 {
+	font-size: 40px;
+	font-family: University Roman;
+	line-height: 4.0;
+	color: #ff00c8;
+	
+}
+
+h2{
+	color: #ff00c8;
+	font-family: Georgia;
+	font-weight: lighter;
+	line-height: 3.0;
+}
+
+#logo {
+	width: 70px;
+}
+
+h4{ 
+	color: #ff00c8;
+	font size: 30px
+	font-family: University Roman;
+	line-height: 1.0;
+	text-justify: center;
+
+
+
+}
+
+/* Custom design with class (99% of your design) */
+
+
+.container {
+	width: 700px
+	margin: 50px auto;
+}
+
+.card-pink {
+	background-color: pink;
+	padding: 50px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,1,1)
+	border-radius: 10px;
+	margin: 15px 0px;
+	text-align: center;
+	border-width: 70px;
+
+}
+h3{
+	color: #E816CF;
+	font-family: Sample;
+	margin-left: 30px;
+}
+
+.img-circle {
+	border-radius: 60%;
+}
+
+
